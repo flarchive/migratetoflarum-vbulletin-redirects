@@ -2,13 +2,16 @@
 
 > **Read-only archive of released versions of migratetoflarum/vbulletin-redirects.** Not for installation: use [Packagist](https://packagist.org/packages/migratetoflarum/vbulletin-redirects) or the [upstream repository](https://github.com/migratetoflarum/vbulletin-redirects).
 
-**0** versions archived · Latest: [`0.2.0`](https://github.com/flarchive/migratetoflarum-vbulletin-redirects/tree/archive/v0.2.0) · License: `MIT` · Flarum: `^0.1.0-beta.8`
+**4** versions archived · Latest: [`0.2.0`](https://github.com/flarchive/migratetoflarum-vbulletin-redirects/tree/archive/v0.2.0) · License: `MIT` · Flarum: `^0.1.0-beta.8`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2018-04-03 | `^0.1.0-beta.7` | [Browse](https://github.com/flarchive/migratetoflarum-vbulletin-redirects/tree/archive/v0.1.0) |
+| `0.1.1` | 2018-04-05 | `^0.1.0-beta.7` | [Browse](https://github.com/flarchive/migratetoflarum-vbulletin-redirects/tree/archive/v0.1.1) |
+| `0.1.2` | 2018-04-05 | `^0.1.0-beta.7` | [Browse](https://github.com/flarchive/migratetoflarum-vbulletin-redirects/tree/archive/v0.1.2) |
+| `0.2.0` | 2018-11-29 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/migratetoflarum-vbulletin-redirects/tree/archive/v0.2.0) |
 
 Catalog entry: [packages/migratetoflarum-vbulletin-redirects.json](https://github.com/flarchive/archive-index/blob/main/packages/migratetoflarum-vbulletin-redirects.json)
 
